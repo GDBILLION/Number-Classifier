@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "NumberClassfierAPI.Controllers.NumberController",
+    "Method": "ClassifyNumber",
+    "RelativePath": "api/Number/classify-number",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

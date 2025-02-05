@@ -1,0 +1,6 @@
+@NumberClassfierAPI_HostAddress = http://localhost:5238
+
+GET {{NumberClassfierAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
