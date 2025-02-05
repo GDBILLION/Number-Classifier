@@ -53,7 +53,7 @@ The API handles **Cross-Origin Resource Sharing (CORS)** and accepts requests fr
 
 ## Deployment
 
-This API is publicly accessible and deployed on [Heroku](https://your-heroku-app-name.herokuapp.com). You can also deploy it to any other platform like Azure, AWS, or DigitalOcean.
+This API is publicly accessible and deployed on [Render](https://number-classifier-obqm.onrender.com). You can also deploy it to any other platform like Azure, AWS, or DigitalOcean.
 
 ## Running Locally
 
@@ -61,8 +61,8 @@ To run this project locally, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/number-classifier-api.git
-   cd number-classifier-api
+   git clone https://github.com/GDBILLION/Number-Classifier.git
+   cd Number-Classifier
    ```
 
 2. **Install dependencies**:
@@ -89,6 +89,3 @@ To test the API, you can use tools like **Postman** or **curl**. Here's an examp
 curl "http://localhost:5000/api/classify-number?number=371"
 ```
 
-## License
-
-This project is licensed under the MIT License.
